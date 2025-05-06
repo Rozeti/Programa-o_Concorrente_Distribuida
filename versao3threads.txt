@@ -1,3 +1,0 @@
-Início: 21:23:48
-Término: 21:23:49
-Tempo de Execução: 973 milissegundos

@@ -1,3 +1,0 @@
-Tempo de Execução: 1882 milissegundos
-CPFs Válidos: 44161
-CPFs Inválidos: 4377650
